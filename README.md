@@ -1,2 +1,2 @@
-delivery-configs
-Arquivos de configuração do projeto
+# delivery-configs
+Arquivos de configuração do projeto Delivery
